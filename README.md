@@ -9,7 +9,7 @@ Developed using **C#** and **WinDivert**, this project demonstrates how real-tim
 ## 📘 **Research Paper**
 📄 Full research paper (PDF):  
 
-**[Research paper – Network Optimization]([Research paper Network Optimization.pdf](https://github.com/user-attachments/files/23912141/Research.paper.Network.Optimization.pdf))**
+**[Research paper – Network Optimization](https://github.com/user-attachments/files/23912141/Research.paper.Network.Optimization.pdf))**
 
 ---
 
