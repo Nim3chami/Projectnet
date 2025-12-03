@@ -70,6 +70,13 @@ This makes it ideal for **SME networks**, **labs**, and **academic demonstration
 
 ## 🖼 **Screenshots**
 
-![Dashboard](/images/traffic monitoring.jpg)
-![Traffic Shaping](/images/traffic shaping.jpg)
-![Content Filtering](docs/images/content_filtering.png)
+![login](https://github.com/user-attachments/assets/af5a389e-5035-4c0a-9c91-1490ec27130d)
+![edit users](https://github.com/user-attachments/assets/68d9738e-9d3a-488e-9ac5-68b3e85ca4ba)
+![traffic monitoring](https://github.com/user-attachments/assets/b7629a08-935e-44af-ab4f-6907f78ef552)
+![chart](https://github.com/user-attachments/assets/ff4ea771-e448-4c31-950a-94a984bc307f)
+![traffic shaping](https://github.com/user-attachments/assets/b8668a6e-d12c-4d17-a512-2f75dd861cd0)
+![shaping rules](https://github.com/user-attachments/assets/cc98982e-65e4-4dbc-9762-d5fa05678e2c)
+![content filtering](https://github.com/user-attachments/assets/b9a76907-5b5d-4529-b778-16b652e6e6ce)
+
+
+
