@@ -69,9 +69,7 @@ This makes it ideal for **SME networks**, **labs**, and **academic demonstration
 ---
 
 ## 🖼 **Screenshots**
-Place your images in `docs/images` and reference them like this:
 
-```md
-![Dashboard](docs/images/dashboard.png)
-![Traffic Shaping](docs/images/traffic_shaping.png)
+![Dashboard](/images/traffic monitoring.jpg)
+![Traffic Shaping](/images/traffic shaping.jpg)
 ![Content Filtering](docs/images/content_filtering.png)
